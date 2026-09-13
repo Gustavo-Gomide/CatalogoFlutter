@@ -1,17 +1,11 @@
-# flutter_ambiente
+# CatalogoFlutter
 
-A new Flutter project.
+Um app flutter feito com ia para visualizar diversos componentes com o intuito de ajudar no desenvolvimento de apps.
 
-## Getting Started
+Dentro desse app terá a demonstração pratica de diversos codigos, tem como intuito exclusivamente demonstrar os codigos ao qual pode escolher para construir seu app. Servindo apenas de base para desenvolvimento de outros apps.
 
-This project is a starting point for a Flutter application.
+As seções estão modulares por pagina, navegue ate a pagina do seu interesse no site [Catálogo Flutter](https://catalogo-flutter.vercel.app/) e depois procure pelo arquivo corespondente para ver o código.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*_Bons estudos e desenvvolvimento!_*
+---
+- Provavelmente será mais elaborado e adicionado ao [Site Guia](https://gustavo-gomide.github.io/SiteGuia/html/index.html)
